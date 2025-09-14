@@ -72,7 +72,8 @@ FOURSQUARE_API_KEY=your_api_key_here
 
 ## 📸 Demo Screenshot
 
-*(Add a screenshot or GIF of your map with route)*
+
+<img width="1919" height="931" alt="Screenshot 2025-08-31 230515" src="https://github.com/user-attachments/assets/4792713d-eca0-434e-adc4-c4c0cbcc076c" />
 
 ---
 
